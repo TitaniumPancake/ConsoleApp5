@@ -28,7 +28,9 @@ namespace ConsoleApp5
             {
                 Console.WriteLine(myValue);
             }
-
+            //for and pressing tab twice creates structure template for
+            //for statment
+            //anywhere "i" was is replaced by my input
 
 
             Console.ReadLine();
